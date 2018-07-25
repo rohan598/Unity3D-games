@@ -14,13 +14,5 @@
   3-hit
   Unbreakable
 
-**4**. There is a pause menu (doesn't open in the first go), you need to press esc 3 times, after which it starts working fine.
-  (under development)
-
-**5**.Pause menu has the following options
-  Resume
-  Restart
-  Main Menu
-  Sound Settings
-  Difficulty Settings
+**4**. There is a pause menu under development
 
